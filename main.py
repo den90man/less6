@@ -1,4 +1,4 @@
-#1
+#1#
 # from time import sleep
 # class TrafficLight:
 #     light= ['Красный', 'Желтый', 'Зеленый']
